@@ -17,7 +17,6 @@ Praticar a construção de um site completo com múltiplas páginas, aplicando b
 ---
 
 ## 📚 O que eu aprendi
-- Estruturação semântica com HTML5
-- Organização de navegação entre páginas
-- Estilização com CSS3
-- Estrutura de layout tradicional para websites
+- Organização de páginas multi-HTML
+- Estilização com CSS3 para layout de site
+- Navegação entre páginas
